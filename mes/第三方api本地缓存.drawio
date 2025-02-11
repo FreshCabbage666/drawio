@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
+  <diagram name="第 1 页" id="flhwivZYTe_7a7q1Y6sK">
+    <mxGraphModel dx="954" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-1" value="配置中心" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-2" value="本地缓存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-3" value="" style="endArrow=block;startArrow=none;html=1;rounded=0;endFill=1;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="400" as="sourcePoint" />
+            <mxPoint x="170" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-7" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="314" y="420" as="sourcePoint" />
+            <mxPoint x="174" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-9" value="" style="endArrow=block;startArrow=none;html=1;rounded=0;endFill=1;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="400" as="sourcePoint" />
+            <mxPoint x="170" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-10" value="1.1 主动拉取配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-11" value="1.2 推送配置变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="425" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-12" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="314" y="420" as="sourcePoint" />
+            <mxPoint x="174" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-13" value="2.2,2.5 DSL获取配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="380" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-19" value="" style="endArrow=block;startArrow=block;html=1;rounded=0;endFill=1;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="409.5" as="sourcePoint" />
+            <mxPoint x="390" y="409.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-23" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="400" as="sourcePoint" />
+            <mxPoint x="650" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-24" value="2.3 FTL构造请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="370" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-25" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;endFill=1;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="420" as="sourcePoint" />
+            <mxPoint x="650" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-26" value="2.4 DSL解析响应" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="420" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="lrmGeYULawTrrLOzvGWZ-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="550" as="sourcePoint" />
+            <mxPoint x="595" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="609" y="450" as="sourcePoint" />
+            <mxPoint x="610" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-36" value="2.1 mq" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-37" value="二开服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="380" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-38" value="二开前端" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="555" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-39" value="第三方系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="380" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-40" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;2.6 FTL构造返参&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="490" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-41" value="mes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="240" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-42" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;2.1 http&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="490" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="550" as="sourcePoint" />
+            <mxPoint x="590" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrmGeYULawTrrLOzvGWZ-47" value="返回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="408" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

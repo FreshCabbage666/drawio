@@ -382,7 +382,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="04GqJXEjqrdkW9OEV_wt" name="步骤,pv,程序,工位,路径配置">
-    <mxGraphModel dx="1100" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1473" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2532,7 +2532,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="riQwBcPXk3WkEdJDElOj" name="设备">
-    <mxGraphModel dx="2272" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2560" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2954,7 +2954,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mukmwd0Dr5EqKiOk9TuF-23" value="t_ibcp_equipment_status&#xa;设备状态表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="195" width="180" height="150" as="geometry" />
+          <mxGeometry x="1120" y="230" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mukmwd0Dr5EqKiOk9TuF-24" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="mukmwd0Dr5EqKiOk9TuF-23" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -3015,7 +3015,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mukmwd0Dr5EqKiOk9TuF-43" value="t_ibcp_equipment_inst_status&#xa;设备实例状态表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="435" width="230" height="150" as="geometry" />
+          <mxGeometry x="770" y="360" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="mukmwd0Dr5EqKiOk9TuF-44" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="mukmwd0Dr5EqKiOk9TuF-43" vertex="1">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
@@ -3038,7 +3038,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mukmwd0Dr5EqKiOk9TuF-49" value="stat_graph_id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="mukmwd0Dr5EqKiOk9TuF-47" vertex="1">
+        <mxCell id="mukmwd0Dr5EqKiOk9TuF-49" value="inst_id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="mukmwd0Dr5EqKiOk9TuF-47" vertex="1">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -3051,22 +3051,21 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mukmwd0Dr5EqKiOk9TuF-52" value="code" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="mukmwd0Dr5EqKiOk9TuF-50" vertex="1">
+        <mxCell id="mukmwd0Dr5EqKiOk9TuF-52" value="cur_status_id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="mukmwd0Dr5EqKiOk9TuF-50" vertex="1">
           <mxGeometry x="30" width="200" height="30" as="geometry">
             <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mukmwd0Dr5EqKiOk9TuF-53" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="mukmwd0Dr5EqKiOk9TuF-43" vertex="1">
-          <mxGeometry y="120" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mukmwd0Dr5EqKiOk9TuF-54" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="mukmwd0Dr5EqKiOk9TuF-53" vertex="1">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
+        <mxCell id="5dNQNTL5WJIusS2F18x0-1" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERoneToMany;startArrow=ERone;endFill=0;startFill=0;" edge="1" parent="1" source="SRQFdF0SS5xABbP5FiaL-111" target="mukmwd0Dr5EqKiOk9TuF-47">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="630" y="570" as="sourcePoint" />
+            <mxPoint x="730" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mukmwd0Dr5EqKiOk9TuF-55" value="name" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="mukmwd0Dr5EqKiOk9TuF-53" vertex="1">
-          <mxGeometry x="30" width="200" height="30" as="geometry">
-            <mxRectangle width="200" height="30" as="alternateBounds" />
+        <mxCell id="5dNQNTL5WJIusS2F18x0-2" value="" style="edgeStyle=entityRelationEdgeStyle;endArrow=ERoneToMany;startArrow=ERone;endFill=0;startFill=0;jumpStyle=arc;jumpSize=16;" edge="1" parent="1" source="mukmwd0Dr5EqKiOk9TuF-24" target="mukmwd0Dr5EqKiOk9TuF-50">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="960" y="530" as="sourcePoint" />
+            <mxPoint x="1030" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

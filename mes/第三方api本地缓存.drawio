@@ -213,7 +213,7 @@
             <mxPoint x="260" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zwEgND5Weaw8cPRpn1Zz-1" value="`t_plug_opc_server`&#xa;opc服务表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="zwEgND5Weaw8cPRpn1Zz-1" value="`t_plug_opc_server`&#xa;opc服务端配置表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="1040" width="240" height="480" as="geometry">
             <mxRectangle x="160" y="1030" width="140" height="30" as="alternateBounds" />
           </mxGeometry>

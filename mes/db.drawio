@@ -780,7 +780,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yL6dxe3xm7lXiUNMcHUJ" name="配方,MFC配置,批指令">
-    <mxGraphModel dx="1202" dy="3017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1551" dy="3255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1123,15 +1123,15 @@
             <mxRectangle width="135" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XkgkK9YnbfZhXcHXKw1s-1" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="aTxwg-SG1gZJALo4JEw0-1">
+        <mxCell id="XkgkK9YnbfZhXcHXKw1s-1" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="aTxwg-SG1gZJALo4JEw0-1" vertex="1">
           <mxGeometry y="90" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XkgkK9YnbfZhXcHXKw1s-2" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="XkgkK9YnbfZhXcHXKw1s-1">
+        <mxCell id="XkgkK9YnbfZhXcHXKw1s-2" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="XkgkK9YnbfZhXcHXKw1s-1" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XkgkK9YnbfZhXcHXKw1s-3" value="resource_status" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="XkgkK9YnbfZhXcHXKw1s-1">
+        <mxCell id="XkgkK9YnbfZhXcHXKw1s-3" value="resource_status" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="XkgkK9YnbfZhXcHXKw1s-1" vertex="1">
           <mxGeometry x="30" width="135" height="30" as="geometry">
             <mxRectangle width="135" height="30" as="alternateBounds" />
           </mxGeometry>

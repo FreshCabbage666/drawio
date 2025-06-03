@@ -574,7 +574,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IAH2NhQFWge8kQVGTbIf-1" value="t_ibcp_location&#xa;位置表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="195" width="160" height="90" as="geometry" />
+          <mxGeometry x="910" y="310" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="IAH2NhQFWge8kQVGTbIf-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="IAH2NhQFWge8kQVGTbIf-1" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -603,7 +603,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IAH2NhQFWge8kQVGTbIf-8" value="t_ibcp_workcenter&#xa;工位表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="910" y="180" width="160" height="120" as="geometry" />
+          <mxGeometry x="670" y="290" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IAH2NhQFWge8kQVGTbIf-9" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="IAH2NhQFWge8kQVGTbIf-8" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -801,7 +801,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6aRiYEtxDdfbsjDmqHpr-1" value="t_ibcp_pv_type&#xa;过程变量类型表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="550" width="160" height="90" as="geometry" />
+          <mxGeometry x="360" y="450" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6aRiYEtxDdfbsjDmqHpr-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="6aRiYEtxDdfbsjDmqHpr-1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -836,7 +836,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6aRiYEtxDdfbsjDmqHpr-19" value="t_ibcp_pv_class&#xa;过程变量类表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="580" width="160" height="60" as="geometry" />
+          <mxGeometry x="570" y="480" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6aRiYEtxDdfbsjDmqHpr-20" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="6aRiYEtxDdfbsjDmqHpr-19">
           <mxGeometry y="30" width="160" height="30" as="geometry" />

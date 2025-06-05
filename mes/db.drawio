@@ -2812,7 +2812,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SRQFdF0SS5xABbP5FiaL-50" value="t_ibcp_equipment_class_type&#xa;设备类类型表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="300" width="220" height="120" as="geometry" />
+          <mxGeometry x="-120" y="250" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="SRQFdF0SS5xABbP5FiaL-51" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="SRQFdF0SS5xABbP5FiaL-50" vertex="1">
           <mxGeometry y="30" width="220" height="30" as="geometry" />
@@ -3155,7 +3155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mukmwd0Dr5EqKiOk9TuF-23" value="t_ibcp_equipment_status&#xa;设备状态表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="320" width="180" height="150" as="geometry" />
+          <mxGeometry x="1110" y="370" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="mukmwd0Dr5EqKiOk9TuF-24" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="mukmwd0Dr5EqKiOk9TuF-23" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -3575,7 +3575,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Rh20Qg6AJ8KYB-tjm9on-52" value="t_ibcp_equipment_property_value_type&#xa;设备类类型节点属性值类型表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="464" width="280" height="120" as="geometry" />
+          <mxGeometry x="-760" y="460" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Rh20Qg6AJ8KYB-tjm9on-53" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Rh20Qg6AJ8KYB-tjm9on-52">
           <mxGeometry y="30" width="280" height="30" as="geometry" />
@@ -3629,7 +3629,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Rh20Qg6AJ8KYB-tjm9on-70" value="t_ibcp_equipment_property&#xa;设备节点属性表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="40" width="200" height="180" as="geometry" />
+          <mxGeometry x="-414" y="10" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Rh20Qg6AJ8KYB-tjm9on-71" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Rh20Qg6AJ8KYB-tjm9on-70">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
